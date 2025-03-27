@@ -1,10 +1,3 @@
-# Welcome to Playable Factory 🚀
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 
 ### 🛠 Installation and Setup
 
